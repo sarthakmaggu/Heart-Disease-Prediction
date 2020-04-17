@@ -17,3 +17,4 @@ Attribute information:
 13.thal: 3 = normal; 6 = fixed defect; 7 = reversable defect.
 14.target 1/0.
 Kaggle link: "https://www.kaggle.com/sarthakmaggu/heart-disease-prediction"
+Along with rewatisingh(username)
